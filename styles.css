@@ -1,5 +1,5 @@
 body {
-    background-image: url(images/1.jpg);
+    background-image: url(https://images.pexels.com/photos/723031/pexels-photo-723031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-repeat: no-repeat;
     background-size: cover;
     position: unset;
@@ -21,7 +21,7 @@ body {
 }
 span {
     font-size: 25px;
-    color: white;
+    color: purple;
     font-weight: bolder;
 }
 .toppage {
@@ -46,7 +46,7 @@ label {
     color: rgb(143, 40, 40);
 }
 .h>p {
-    color: white;
+    color: red;
     font-size: 30px;
 }
 .hh {
