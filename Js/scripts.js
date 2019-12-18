@@ -16,11 +16,11 @@ function getNumber() {
 }
 function calculateTotal() {
     var results = (getSize() + getFlavour() + getTopping()) * getNumber();
-    alert("You  ordered " + getNumber("") + " Pizza " + " which amounts to Kshs. " + results + " Thank you ");
-    prompt("provide your location");
-    alert("Your order has been received and will be delivered in a short while. Delivery fee is kshs 200.To be added in your order TOTALS");
+    alert("You have ordered " + getNumber("") + " Pizza " + " which amounts to Kshs. " + results + " Thank you ");
+    prompt("Enter your location");
+    alert("Your order has been received and will be delivered in a short while. Delivery fee is kshs 150.");
 }
 function calculate() {
     var results = (getSize() + getFlavour() + getTopping()) * getNumber();
-    alert("You have ordered " + getNumber("") + " Pizza " + " which amounts to Kshs. " + results + " Your order is ready for pickup at our station along the University Way. Contact us for more information. Thank you.");
+    alert("You have ordered " + getNumber("") + " Pizza " + " which amounts to Kshs. " + results + " Your order is ready for pick at our hut . Contact us for more information. Thank you.");
 }
