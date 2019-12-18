@@ -11,8 +11,6 @@ HTML5
 css3
 javascript
 jquery
-
-
 ## CONTACT DETAILS
 for any information concerning the project reach me on
 ## contact +254-740-636-752
