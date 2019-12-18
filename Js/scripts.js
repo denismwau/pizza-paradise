@@ -18,7 +18,7 @@ function calculateTotal() {
     var results = (getSize() + getFlavour() + getTopping()) * getNumber();
     alert("You have ordered " + getNumber("") + " Pizza " + " which amounts to Kshs. " + results + " Thank you ");
     prompt("Enter your location");
-    alert("Your order has been received and will be delivered in a short while. Delivery fee is kshs 150.");
+    alert("Your order has been received and will be delivered in a short while. Delivery fee is kshs 200.To be added in your order TOTALS");
 }
 function calculate() {
     var results = (getSize() + getFlavour() + getTopping()) * getNumber();
