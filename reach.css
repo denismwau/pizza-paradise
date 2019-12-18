@@ -4,11 +4,19 @@ body {
     background-size: cover;
     position: unset;
     background-attachment: fixed;
+    text-align: center;
+}
+.gf{
+    background-color: purple;
 }
 .navbar-nav {
     position: absolute;
     left: 50%;
     transform: translatex(-50%);
+}
+p{
+    padding-top: 10%;
+    color: purple;
 }
 .var {
     font-weight: bolder;
@@ -21,7 +29,7 @@ body {
 }
 span {
     font-size: 25px;
-    color: purple;
+    color: rgb(7, 7, 7);
     font-weight: bolder;
 }
 .toppage {

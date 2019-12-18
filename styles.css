@@ -10,6 +10,9 @@ body {
     left: 50%;
     transform: translatex(-50%);
 }
+.gf{
+    background-color: purple;
+}
 .var {
     font-weight: bolder;
     padding-left: 80px;
@@ -21,7 +24,7 @@ body {
 }
 span {
     font-size: 25px;
-    color: purple;
+    color: rgb(3, 3, 3);
     font-weight: bolder;
 }
 .toppage {
